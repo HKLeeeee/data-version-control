@@ -1,0 +1,5 @@
+outs:
+- md5: 96699b2533fcd2551d6fbe943c5c2715.dir
+  size: 512023578
+  nfiles: 606
+  path: fall_testset
