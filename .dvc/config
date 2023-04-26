@@ -1,4 +1,4 @@
 [core]
-    remote = data
-['remote "data"']
-    url = /tmp/dvc-storage/data
+    remote = local-remote
+['remote "local-remote"']
+    url = /tmp/dvc-test-remote
